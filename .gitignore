@@ -64,8 +64,3 @@ target/
 .idea
 /logs
 doc/_build/
-
-/app/templates/main/robot/.idea/
-/app/templates/main/robot/css/
-/app/templates/main/robot/dist/
-/app/templates/main/robot/resource/

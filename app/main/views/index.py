@@ -6,5 +6,4 @@ from app.models import Book
 
 @main.route("/", methods=['GET'])
 def index():
-    book = Book('The Art of Computer Programming ')
-    return render_template('main/robot/index.html', book=book)
+    return render_template('main/index.html')
